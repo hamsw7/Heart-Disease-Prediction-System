@@ -11,7 +11,7 @@ This project aims to develop a Heart Disease Prediction System utilizing Logisti
 •Easy-to-use interface for entering input data and obtaining predictions.
 
 ### Installation
-1.Clone the repository: git clone https://github.com/Hamoodi79/Heart-Disease-Prediction-System.git
+1.Clone the repository: git clone https://github.com/hamsw7/Heart-Disease-Prediction-System.git
 
 2.Install required dependencies: pip install -r requirements.txt
 
@@ -30,4 +30,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Contact
 For any questions or inquiries, please contact 
-<a href="https://github.com/Hamoodi79">Abdulhamid Ali</a> or at [abdulhamidali135@gmail.com].
+<a href="https://github.com/Hamoodi79">Abdulhamid Nuredin</a> or at [abdulhamidali135@gmail.com].
